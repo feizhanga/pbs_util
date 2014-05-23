@@ -3,7 +3,7 @@ import sys
 import os
 import pwd
 import ConfigParser
-
+import time
 
 numnodes=1
 numprocs=1
